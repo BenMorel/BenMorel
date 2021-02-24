@@ -10,6 +10,4 @@ I'm an occasional contributor to Doctrine ([ORM](https://github.com/pulls?q=is%3
 
 I'm also an entrepreneur 👔, an amateur pianist 🎹 and a dad 👶.
 
-**I'm currently looking for a new job/business opportunity**, so if you're working on something cool and need more (man|brain)power, I may be your guy. [Get in touch!](mailto:benjamin.morel@gmail.com)
-
 [![BenMorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenMorel)](https://github.com/anuraghazra/github-readme-stats)
