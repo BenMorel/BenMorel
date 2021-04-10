@@ -8,6 +8,4 @@ You'll find that whenever I start working on something that I feel may be reusab
 
 I'm an occasional contributor to Doctrine ([ORM](https://github.com/pulls?q=is%3Apr+author%3ABenMorel+repo%3Adoctrine%2Form+is%3Aclosed) & [DBAL](https://github.com/pulls?q=is%3Apr+author%3ABenMorel+repo%3Adoctrine%2Fdbal+is%3Aclosed)).
 
-I'm also an entrepreneur 👔, an amateur pianist 🎹 and a dad 👶.
-
 [![BenMorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenMorel)](https://github.com/anuraghazra/github-readme-stats)
