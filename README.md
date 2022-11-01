@@ -1,6 +1,6 @@
 **Hi there** 👋 I'm Benjamin.
 
-I'm a full-stack web developer, with a focus on back-end development using PHP.
+I'm a full-stack web developer, with a focus on back-end PHP development.
 
 I'm the author of a few popular PHP libraries, such as [brick/math](https://github.com/brick/math) (a dependency of Laravel and `ramsey/uuid`) and [brick/money](https://github.com/brick/money). I'm also the author of many *non*-popular libraries 😏
 
