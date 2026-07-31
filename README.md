@@ -11,6 +11,6 @@ I'm the author of Brick, a collection of open-source libraries for modern PHP:
 - **[brick/varexporter](https://github.com/brick/varexporter)** — `var_export()` with support for closures and more objects [![downloads](https://img.shields.io/packagist/dt/brick/varexporter?style=flat-square&label=downloads&labelColor=44546a)](https://packagist.org/packages/brick/varexporter)
 - **[… see all libraries](https://github.com/brick/)**
 
-Brick libraries are used by Laravel, Laminas, ramsey/uuid, and hundreds of other packages.
+Brick libraries are used by Laravel, Laminas, ramsey/uuid, and more.
 
 If you find my libraries useful, please consider [sponsoring me](https://github.com/sponsors/BenMorel) — it means a lot!
