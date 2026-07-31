@@ -9,9 +9,8 @@ I'm the author of Brick, a collection of open-source libraries for modern PHP:
 - **[brick/postcode](https://github.com/brick/postcode)** — postcode validation and formatting [![downloads](https://img.shields.io/packagist/dt/brick/postcode?style=flat-square&label=downloads&labelColor=44546a)](https://packagist.org/packages/brick/postcode)
 - **[brick/geo](https://github.com/brick/geo)** — GIS geometry, WKT / WKB / GeoJSON [![downloads](https://img.shields.io/packagist/dt/brick/geo?style=flat-square&label=downloads&labelColor=44546a)](https://packagist.org/packages/brick/geo)
 - **[brick/varexporter](https://github.com/brick/varexporter)** — `var_export()` with support for closures and more objects [![downloads](https://img.shields.io/packagist/dt/brick/varexporter?style=flat-square&label=downloads&labelColor=44546a)](https://packagist.org/packages/brick/varexporter)
+- **[… see all libraries](https://github.com/brick/)**
 
-and [more](https://github.com/brick/).
-
-Brick libraries are used by Laravel, Laminas, ramsey/uuid, and more.
+Brick libraries are used by Laravel, Laminas, ramsey/uuid, and hundreds of other packages.
 
 If you find my libraries useful, please consider [sponsoring me](https://github.com/sponsors/BenMorel) — it means a lot!
